@@ -1,4 +1,4 @@
-# Parks and Rec Trivia Game
+# Women in STEM Trivia Game
 * Start the game by clicking the "Play Game" button.
 * The first question will come up, with a timer. 
 * The user must choose a question within the allotted time, or the question will time out and it will be marked incorrect.
@@ -11,7 +11,7 @@
 HTML5, CSS3, JavaScript and JQuery.
 
 ## Demo
-[Play the game] ( https://kelsimhoyle.github.io/TriviaGame/)
+[Play the game] ( https://savannahisrael.com/trivia-game)
 
 ### Author
 Savannah Israel
